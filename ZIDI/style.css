@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(72, 60, 88);
+    text-align:center;  
+    color:rgb(178, 167, 228);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+}
+
+img {
+    border-radius: 20px;
+    border-width: 40px;
+}
+
